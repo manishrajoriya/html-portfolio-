@@ -1,0 +1,26 @@
+
+
+body{
+  background-color:#E1F0DA;
+}
+
+h1{
+  color: green;
+}
+h3{
+  color:green;
+}
+hr {
+  background-color: white;
+  border-style: inset;
+  border-top: dotted;
+  border-color: black;
+  width: 10%;
+  height: 2px;
+
+
+}
+
+img{
+  height: 70px;
+}
